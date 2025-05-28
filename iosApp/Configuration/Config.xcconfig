@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=explorer
+PRODUCT_BUNDLE_IDENTIFIER=sk.ai.net.tools.models.explorer.explorer$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
